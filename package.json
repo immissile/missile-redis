@@ -10,5 +10,9 @@
     "redis"
   ],
   "author": "Missile",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "config": "^1.21.0",
+    "ioredis": "^2.4.0"
+  }
 }
